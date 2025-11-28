@@ -1,4 +1,4 @@
-\<div align="center"\>\<img src="[https://github.com/vtiquet/holbertonschool-resources/blob/main/image/Holberton-Logo.svg](https://github.com/vtiquet/holbertonschool-resources/blob/main/image/Holberton-Logo.svg)" width=40% height=40%/\>\</div\>
+<div align="center"><img src="https://github.com/vtiquet/holbertonschool-resources/blob/main/image/Holberton-Logo.svg" width=40% height=40%/></div>
 
 # Holberton School - ChatGPT Introduction
 
@@ -41,4 +41,4 @@ To run any of the Python files, navigate to the `debugging` directory and execut
 
 ## 🧑‍💻 Author
 
-[cite\_start]**vtiquet** - [GitHub Profile](https://github.com/vtiquet) [cite: 5]
+vtiquet - [GitHub Profile](https://github.com/vtiquet)
